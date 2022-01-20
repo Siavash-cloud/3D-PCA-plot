@@ -29,8 +29,8 @@ pip install argparse
 #### 2.1 Inputs
 The examples of inputs were deposited here (you can see: pink.eigenvalue and plink.eigenvec)
 * In pink.eigenvalue:
-1th column is population ID
-2th column is individual ID
-3th column is PC1
-4th column is PC2
+1th column is population ID,
+2th column is individual ID,
+3th column is PC1,
+4th column is PC2 and
 5th column is PC3
