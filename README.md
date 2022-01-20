@@ -4,8 +4,14 @@
 ## 1. A short description
 * The 3D-PCA-plot is a custom-made python script to plot PCA results.
 ## 1.2 For downloading 3D-PCA-plot use 'wget' command for these links:
-###### https://github.com/Siavash-cloud/DEBV_calculator/releases/download/1.00/DEBV_calculator
-###### https://github.com/Siavash-cloud/DEBV_calculator/releases/download/1.00/DEBV_calculator_blupf90
+###### git clone https://github.com/Siavash-cloud/3D-PCA-plot.git
 ###### then run:
-###### chmod 775 DEBV_calculator
-###### chmod 775 DEBV_calculator_blupf90
+###### cd 3D-PCA-plot
+###### chmod 775 3D-PCA-plot.py
+## 1.2 Dependencies in python (>2.7)
+* seaborn
+* numpy
+* pandas
+* matplotlib
+* pylab
+* argparse
