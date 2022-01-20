@@ -9,6 +9,7 @@
 ``` 
 cd 3D-PCA-plot
 chmod 775 3D-PCA-plot.py
+```
 ## 1.2 Dependencies in python (>2.7)
 * seaborn
 * numpy
