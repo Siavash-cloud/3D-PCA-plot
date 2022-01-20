@@ -34,3 +34,7 @@ The examples of inputs were deposited here (you can see: pink.eigenvalue and pli
 3th column is PC1,
 4th column is PC2 and
 5th column is PC3
+* In pink.eigenvalue:
+1th column includes explained variation by PC1, PC2 and PC3
+#### 2.2 Usage
+```
