@@ -38,7 +38,7 @@ The examples of inputs were deposited here (you can see: pink.eigenvalue and pli
 1th column includes explained variation by PC1, PC2 and PC3
 #### 2.2 Usage
 ```
-python 3D-PCA-plot.py --evec plink.eigenvec --eval plink.eigenval --s 70 --x 15 --y 10 --c brg --o sia
+python 3D-PCA-plot.py --evec plink.eigenvec --eval plink.eigenval --s 10 --x 10 --y 10 --c brg --o 3Dplot
 ```
 #### 2.3 Options
 * --evec is the eigenvec file (required option)
