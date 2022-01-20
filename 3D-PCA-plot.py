@@ -21,7 +21,7 @@ P.add_argument('--s',help='Size of scatter points', type=int,required=False,defa
 P.add_argument('--c',help='Colormaps: please see https://matplotlib.org/stable/tutorials/colors/colormaps.html, to choose your preferred color maps', type=str,required=False,default='brg')
 P.add_argument('--x',help='width of figure', type=int,required=False,default=10)
 P.add_argument('--y',help='height of figure', type=int,required=False,default=10)
-P.add_argument('--o',help='Output files prefix', type=str, required=True)
+P.add_argument('--o',help='Output file prefix', type=str, required=True)
 args = P.parse_args()
 ####################################################################
 data = pd.read_csv(args.evec,delimiter=r"\s+",header=None)
