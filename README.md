@@ -2,7 +2,7 @@
 3D_PCA_plot
 ###### Developer: Siavash Salek Ardestani (May-2022)
 ## 1. A short description
-* The 3D-PCA-plot is a custom-made python script to plot PCA results.
+* The 3D-PCA-plot is a custom-made python script to plot PCA results in Linux.
 ## 1.2 For downloading and getting permission 3D-PCA-plot, please use:
 ``` git clone https://github.com/Siavash-cloud/3D-PCA-plot.git```
 ###### then run:
@@ -26,3 +26,5 @@ pip install matplotlib
 pip install pylab
 pip install argparse
 ```
+## 2. Inputs and usage
+#### 2.1 Input
