@@ -25,7 +25,7 @@ pip install matplotlib
 pip install pylab
 pip install argparse
 ```
-## 2. Inputs, usage and options
+## 2. Inputs, usage, options and output
 #### 2.1 Inputs
 The examples of inputs were deposited here (you can see: pink.eigenvalue and plink.eigenvec)
 * In pink.eigenvalue:
@@ -49,3 +49,5 @@ python 3D-PCA-plot.py --evec plink.eigenvec --eval plink.eigenval --s 10 --x 10 
 * --c is colormaps: please see https://matplotlib.org/stable/tutorials/colors/colormaps.html, to choose your preferred color maps (optional, default=brg)
 * --o is the output file prefix (required option)
 https://github.com/Siavash-cloud/3D-PCA-plot/blob/main/3Dplot3dPCA.tiff
+#### 2.4 output
+![ Logo](https://github.com/Siavash-cloud/3D-PCA-plot/blob/main/3Dplot3dPCA.tiff)
