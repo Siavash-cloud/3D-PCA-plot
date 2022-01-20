@@ -17,7 +17,7 @@ chmod 775 3D-PCA-plot.py
 * matplotlib
 * pylab
 * argparse
-* If you do not have each of the above-mentioned libraries, then you can install these through:
+* If you do not have each of the above-mentioned libraries in your python, then you can install these through:
 ```
 pip install seaborn
 pip install numpy
