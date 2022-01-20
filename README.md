@@ -16,4 +16,5 @@
 * pylab
 * argparse
 * If you do not have each of the above-mentioned libraries, then you can install these through:
-< pip install library_name
+```
+pip install library_name
