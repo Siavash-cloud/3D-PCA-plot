@@ -48,3 +48,4 @@ python 3D-PCA-plot.py --evec plink.eigenvec --eval plink.eigenval --s 10 --x 10 
 * --y is the height of figure (optional, default=10)
 * --c is colormaps: please see https://matplotlib.org/stable/tutorials/colors/colormaps.html, to choose your preferred color maps (optional, default=brg)
 * --o is the output file prefix (required option)
+https://github.com/Siavash-cloud/3D-PCA-plot/blob/main/3Dplot3dPCA.tiff
