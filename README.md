@@ -40,3 +40,9 @@ The examples of inputs were deposited here (you can see: pink.eigenvalue and pli
 ```
 python 3D-PCA-plot.py --evec plink.eigenvec --eval plink.eigenval --s 70 --x 15 --y 10 --c brg --o sia
 ```
+#### 2.2 Options
+* --s is the size of scatter points (optional, default=10)
+* --x is the width of figure (optional, default=10)
+* --y is the height of figure (optional, default=10)
+* --c is colormaps: please see https://matplotlib.org/stable/tutorials/colors/colormaps.html, to choose your preferred color maps (optional, default=brg)
+* --o
