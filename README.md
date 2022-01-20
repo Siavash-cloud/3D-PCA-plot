@@ -26,5 +26,6 @@ pip install matplotlib
 pip install pylab
 pip install argparse
 ```
-## 2. Input and usage
-#### 2.1 Input
+## 2. Inputs and usage
+#### 2.1 Inputs
+The examples of inputs were deposited here (you can see: pink.eigenvalue and plink.eigenvec)
