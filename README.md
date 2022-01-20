@@ -26,5 +26,5 @@ pip install matplotlib
 pip install pylab
 pip install argparse
 ```
-## 2. Inputs and usage
+## 2. Input and usage
 #### 2.1 Input
