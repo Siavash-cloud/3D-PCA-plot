@@ -6,8 +6,9 @@
 ## 1.2 For downloading and getting permission 3D-PCA-plot, please use:
 ``` git clone https://github.com/Siavash-cloud/3D-PCA-plot.git```
 ###### then run:
-``` cd 3D-PCA-plot```
-```chmod 775 3D-PCA-plot.py ```
+``` 
+cd 3D-PCA-plot
+chmod 775 3D-PCA-plot.py
 ## 1.2 Dependencies in python (>2.7)
 * seaborn
 * numpy
@@ -23,3 +24,4 @@ pip install pandas
 pip install matplotlib
 pip install pylab
 pip install argparse
+```
